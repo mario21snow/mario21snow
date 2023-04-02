@@ -20,7 +20,7 @@
 
 - 📫 How to reach me **mariya21shaikh05@gmail.com**
 
-- ⚡ LIFE **I am purposeful**
+- ⚡ LIFE **purposeful**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
