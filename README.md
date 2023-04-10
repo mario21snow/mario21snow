@@ -10,13 +10,13 @@
 
 - 💖 **Data Analyst**
 
-- 🌱 I’m currently learning **Artificial Intelligence, Deep Learning & Cloud ☁️**
+- 🌱 I’m currently learning ** Artificial Intelligence, Deep Learning & Cloud ☁️**
 
-- 🔭 I’m currently working on **Blindness Detection**
+- 🔭 I’m currently working on **Data Science**
 
 - 👯 Coding Ninja **Campus Ambassador Ninjapreneur**
 
-- 💬 Ask me about **Python, Machine Learning**
+- 💬 Ask me about **Python, Machine Learning Data Analyst, PowerBi**
 
 - 📫 How to reach me **mariya21shaikh05@gmail.com**
 
