@@ -8,15 +8,15 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mario21snow" alt="mario21snow" /></a> </p>
 
-- 💖 **Data Analyst**
+- 💖 **Data Scientist**
 
-- 🌱 I’m currently learning ** Artificial Intelligence, Deep Learning & Cloud ☁️**
+- 🌱 I’m currently learning **Artificial Intelligence, Deep Learning & Cloud ☁️**
 
 - 🔭 I’m currently working on **Data Science**
 
 - 👯 Coding Ninja **Campus Ambassador Ninjapreneur**
 
-- 💬 Ask me about **Python, Machine Learning Data Analyst, PowerBi**
+- 💬 Ask me about **Data Science**
 
 - 📫 How to reach me **mariya21shaikh05@gmail.com**
 
