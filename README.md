@@ -12,7 +12,7 @@
 
 - 🌱 I’m currently learning **Artificial Intelligence, Deep Learning & Cloud ☁️**
 
-- 🔭 I’m currently working on **Data Science**
+- 🔭 I’m currently working on **Data Analyst**
 
 - 👯 Coding Ninja **Campus Ambassador Ninjapreneur**
 
