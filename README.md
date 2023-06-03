@@ -14,8 +14,6 @@
 
 - 🔭 I’m currently working on **Data Analyst**
 
-- 👯 Coding Ninja **Campus Ambassador Ninjapreneur**
-
 - 💬 Ask me about **Data Science**
 
 - 📫 How to reach me **mariya21shaikh05@gmail.com**
