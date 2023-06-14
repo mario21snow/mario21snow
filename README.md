@@ -10,7 +10,7 @@
 
 - 💖 **Data Scientist**
 
-- 🌱 I’m currently learning **Artificial Intelligence, Deep Learning & Cloud ☁️**
+- 🌱 I’m currently learning **Artificial Intelligence & Cloud ☁️**
 
 - 🔭 I’m currently working on **Data Analyst**
 
