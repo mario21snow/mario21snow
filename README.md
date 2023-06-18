@@ -1,5 +1,5 @@
 
-<p align="center"> <img src="https://digitalcreativemind.com/wp-content/uploads/2021/06/Analytics_amp_Data_Science.gif " /> </p>
+<p align="center"> <img src="#" /> </p>
 
 <h1 align="center">Hi 👋, I'm MARIYA BILAL SHAIKH</h1>
 <h3 align="center">"Unleashing insights from data to drive informed decisions."</h3>
