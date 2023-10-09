@@ -23,17 +23,10 @@
 
 ![Google_Sheets_logo_(2014-2020) svg](https://user-images.githubusercontent.com/88282209/219849720-ed8644c5-99ad-48fb-96b2-f1b0482c53a4.png)
 ![icons8-microsoft-excel-48](https://user-images.githubusercontent.com/88282209/219850028-c4d7451a-3708-4281-bb74-9fc56bdf10ef.png)
-![Looker tableau](https://user-images.githubusercontent.com/88282209/219849609-5cb486be-1538-4cfc-82b9-7999dd43c55e.png)
 ![icons8-power-bi-48](https://user-images.githubusercontent.com/88282209/219850388-778ed3c5-d78d-4246-bbc3-e311715fa147.png)
 ![icons8-mysql-logo-48](https://user-images.githubusercontent.com/88282209/219851299-c7a82c04-3e11-4888-9621-257750214be4.png)
 ![icons8-python-48](https://user-images.githubusercontent.com/88282209/219851446-10e4c0ac-fa76-47fc-bdd1-aebeed58c920.png)
 
 
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mario21snow&show_icons=true&locale=en&layout=compact" alt="mario21snow" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mario21snow&show_icons=true&locale=en" alt="mario21snow" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mario21snow&" alt="mario21snow" /></p>
 
 
